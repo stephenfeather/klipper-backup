@@ -3,10 +3,12 @@
 This is the klipper config for one of my  printers.
 
 ### Host
+
 Raspbery PI 4
 DS18B20 - not configured in klipper yet
 
 ### Printer 1
+
 Ender 3v2
 Dual Z-axis screws
 OEM Print Head
