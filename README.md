@@ -14,6 +14,7 @@ Backup of klipper config currently used. working to breakout parts into their ow
 - BTT SKS Mini E3 v2
 - dual z screws
 - magnetic bed with PEI sheet over glass plate
+- PTFE from Sunlu Dryer v2 to the hotend (for now)
 - Wham Bam Mutant V2 System
 
 ### Ender OEM w/ mods
@@ -34,6 +35,11 @@ Backup of klipper config currently used. working to breakout parts into their ow
 - rp2040 for sensor management
 - nozzle cam
 
-i use mainsail as a gui
+## Software
+- [Kiauth](https://github.com/dw-0/kiauh) for installation ease
+- [Mainsail](https://docs.mainsail.xyz/) for web gui
+- [Obico](https://www.obico.io/)
 
-i use kiauth for software managemet/installation -> https://github.com/th33xitus/KIAUH
+ -----
+ This backup is graciously provided by [Klipper-Backup](https://github.com/Staubgeborener/klipper-backup).
+ Many thanks to that team for helping to automate all this.
