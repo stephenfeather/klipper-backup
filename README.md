@@ -1,27 +1,39 @@
 # Klipper-Backup 💾 
 
-This is the klipper config for one of my  printers.
+Backup of klipper config currently used. working to breakout parts into their own config files to make head swapping easier.
 
-### Host
+## Ender 3v2 with multiple heads
 
-Raspbery PI 4
-DS18B20 - not configured in klipper yet
+### Support System
+- Pi4 w/ Bookworm
+- Logitech C920x HD Pro Webcam (enclosure)
+- PiCam (build plate)
 
-### Printer 1
+### Base Hardware
 
-Ender 3v2
-Dual Z-axis screws
-OEM Print Head
-C920 Camera - active
-Pi Cam - disabled
-BTT SKR Mini E3 v3 mainboard
-BTT SFS v1 runout sensor
-CR-Touch - bltouch get physically breaking
-HeroMe 5/6 Cooling setup
-PTFE from Sunlu dryer to the hotend
+- BTT SKS Mini E3 v2
+- dual z screws
+- magnetic bed with PEI sheet over glass plate
+- Wham Bam Mutant V2 System
 
+### Ender OEM w/ mods
 
+- OEM Hot End
+- CR-Touch Probe
+- Hero Me 5 Cooling System
 
------
-This backup is graciously provided by [Klipper-Backup](https://github.com/Staubgeborener/klipper-backup).
-Many thanks to that team for helping to automate all this.
+### Biqu
+
+- Biqu H2 V2S extruder
+- BTT SFS V2.0 Smart Filament Sensor
+- CR-Touch
+
+## upcoming additions
+
+- adxl
+- rp2040 for sensor management
+- nozzle cam
+
+i use mainsail as a gui
+
+i use kiauth for software managemet/installation -> https://github.com/th33xitus/KIAUH
