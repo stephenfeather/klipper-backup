@@ -2,7 +2,7 @@
 klipper config that i currently use. working to breakout parts into their own config files to make head swapping easier.
 
 ## i have an Ender 3v2  with the following mods
-- BTT SKR Mini E3 V3
+BTT SKR Mini E3 V3
 - Biqu H2 V2S extruder
 - BTT SFS V2.0 Smart Filament Sensor
 - dual z screws
