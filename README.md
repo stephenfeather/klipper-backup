@@ -17,19 +17,21 @@ Backup of klipper config currently used. working to breakout parts into their ow
 - PTFE from Sunlu Dryer v2 to the hotend (for now)
 - Wham Bam Mutant V2 System
 
-### Ender OEM w/ mods
+### Mutant Heads
+
+#### Ender OEM w/ mods
 
 - OEM Hot End
 - CR-Touch Probe
 - Hero Me 5 Cooling System
 
-### Biqu
+#### Biqu
 
 - Biqu H2 V2S extruder
 - BTT SFS V2.0 Smart Filament Sensor
 - CR-Touch
 
-## upcoming additions
+## Upcoming additions
 
 - adxl
 - rp2040 for sensor management
@@ -40,6 +42,10 @@ Backup of klipper config currently used. working to breakout parts into their ow
 - [Mainsail](https://docs.mainsail.xyz/) for web gui
 - [Obico](https://www.obico.io/)
 
+## Hardware
+- [WHam Bam Mutant](https://www.whambamsystems.com/pages/mutant)
+- [BIQU H2 V2S Direct Drive Extruder](https://amzn.to/42yuSOC)
+- [BIGTREETECH Smart Filament Detector V2.0](https://amzn.to/4iXn8LP)
  -----
  This backup is graciously provided by [Klipper-Backup](https://github.com/Staubgeborener/klipper-backup).
  Many thanks to that team for helping to automate all this.
