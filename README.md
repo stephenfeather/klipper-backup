@@ -48,6 +48,7 @@ Any hardware that can live in its own config file resides in [printer_data/confi
 - [WHam Bam Mutant](https://www.whambamsystems.com/pages/mutant)
 - [BIQU H2 V2S Direct Drive Extruder](https://amzn.to/42yuSOC)
 - [BIGTREETECH Smart Filament Detector V2.0](https://amzn.to/4iXn8LP)
+- [BIGTREETECH SKR Mini E3 V3.0 Motherboard](https://amzn.to/4j5VZqk) (link to the V3 vs my V2)
 
 ## Decisions
 - Decisions and choices were made with the best information available at the time.
