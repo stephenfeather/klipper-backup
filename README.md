@@ -1,6 +1,7 @@
 # Klipper-Backup 💾 
 
-Backup of klipper config currently used. working to breakout parts into their own config files to make head swapping easier.
+Backup of klipper config currently used. Working to breakout parts into their own config files (think modular) to make head swapping easier.
+Any hardware that can live in its own config file resides in [printer_data/config/configs](https://github.com/stephenfeather/klipper-backup/tree/main/printer_data/config/configs). Sometimes a hardware component requires new or additional settings when used with a different head. Currently, only klipper is being backed up. 
 
 ## Ender 3v2 with multiple heads
 
@@ -36,6 +37,7 @@ Backup of klipper config currently used. working to breakout parts into their ow
 - adxl
 - rp2040 for sensor management
 - nozzle cam
+- photos of the heads for context
 
 ## Software
 - [Kiauth](https://github.com/dw-0/kiauh) for installation ease
@@ -46,6 +48,16 @@ Backup of klipper config currently used. working to breakout parts into their ow
 - [WHam Bam Mutant](https://www.whambamsystems.com/pages/mutant)
 - [BIQU H2 V2S Direct Drive Extruder](https://amzn.to/42yuSOC)
 - [BIGTREETECH Smart Filament Detector V2.0](https://amzn.to/4iXn8LP)
+
+## Decisions
+- Decisions and choices were made with the best information available at the time.
+- The Hero Me part cooling system was and may still be one of the most efficient printable coolers available.  However, it was abandoned by its creator and the community had to take it over.  I began to lose faith in the patreon access around the time the magnetic connection unit was being developed. It is also rather large and bulky (forward of the hotend), so additional torque on the x axis connections and wheels.
+- Ender 3v2 was on sale for dirt cheap at Microcenter when I was starting out (50% off!) and it wasn't outdated at the time.
+- Bought Ender, so was stuck with Creality. My first resin printer was a Creality simply out of comfort. I see all the Chinese manufacturers about the same. You get what you pay for.
+- Modifying vs purchase: A lot has changed in the FDM space, and for production use I'd just buy a new Prussa or Bambu (get your crap together on 3rd party access!). But rebuilding a printer will force you to think more about what you need, what you want, and what could be possibe.
+- Adding Dual Z screws was probably one of the better choices made in everything.  It helped to prevent right side sagging of the X-axis due to the weight of the heads.
+- The Pi4b still runs. Haven't found a need to upgrade it yet, although I do have a number of the new Pi5s (when in doubt, throw Pi!) running data collection for other projects and they are smoking!
+
  -----
  This backup is graciously provided by [Klipper-Backup](https://github.com/Staubgeborener/klipper-backup).
  Many thanks to that team for helping to automate all this.
