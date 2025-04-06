@@ -58,6 +58,7 @@ Any hardware that can live in its own config file resides in [printer_data/confi
 - Modifying vs purchase: A lot has changed in the FDM space, and for production use I'd just buy a new Prussa or Bambu (get your crap together on 3rd party access!). But rebuilding a printer will force you to think more about what you need, what you want, and what could be possibe.
 - Adding Dual Z screws was probably one of the better choices made in everything.  It helped to prevent right side sagging of the X-axis due to the weight of the heads.
 - The Pi4b still runs. Haven't found a need to upgrade it yet, although I do have a number of the new Pi5s (when in doubt, throw Pi!) running data collection for other projects and they are smoking!
+- Ran Jyers version of Marlin almost from day one on the Creality mainboards and it took away a lot of the Marlin pain points.  However, needing to rebuild a firmware make what were often very small changes was time consuming.  Klipper offers not only faster config changes, but also addtional hardware options. Klipper on the printer, klipper on the rp2040s - and it just works.
 
  -----
  This backup is graciously provided by [Klipper-Backup](https://github.com/Staubgeborener/klipper-backup).
