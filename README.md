@@ -1,6 +1,6 @@
 # Klipper-Backup 💾 
 
-Backup of klipper config currently used. Working to breakout parts into their own config files (think modular) to make head swapping easier.
+Backup of klipper config currently used. Working to breakout parts into their own config files (think modular, and a shout out to [ascii-ts](https://github.com/ascii-ts/my-klipper-configs/tree/master/config) for the idea) to make head swapping easier.
 Any hardware that can live in its own config file resides in [printer_data/config/configs](https://github.com/stephenfeather/klipper-backup/tree/main/printer_data/config/configs). Sometimes a hardware component requires new or additional settings when used with a different head. Currently, only klipper is being backed up. 
 
 ## Ender 3v2 with multiple heads
