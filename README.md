@@ -7,7 +7,7 @@ Any hardware that can live in its own config file resides in [printer_data/confi
 
 ### Support System
 - Pi4 w/ Bookworm
-- Logitech C920x HD Pro Webcam (enclosure)
+- [Logitech C920x HD Pro Webcam](https://amzn.to/4jV1uYG) (enclosure)
 - PiCam (build plate)
 
 ### Base Hardware
@@ -28,9 +28,9 @@ Any hardware that can live in its own config file resides in [printer_data/confi
 
 #### Biqu
 
-- Biqu H2 V2S extruder
-- BTT SFS V2.0 Smart Filament Sensor
-- CR-Touch
+- [Biqu H2 V2S extruder](https://amzn.to/3EA0B9a)
+- [BTT SFS V2.0 Smart Filament Sensor](https://amzn.to/430Og64)
+- [CR-Touch](https://amzn.to/3EBZN3D)
 
 ## Upcoming additions
 
